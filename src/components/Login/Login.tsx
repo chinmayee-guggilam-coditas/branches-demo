@@ -1,6 +1,6 @@
 const Login = () =>{
   return(
-    <h2>Login component</h2>
+    <h2>Login page</h2>
   )
 }
 
